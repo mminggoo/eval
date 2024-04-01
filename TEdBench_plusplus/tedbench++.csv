@@ -1,0 +1,128 @@
+img_name,target_text,skip,threshold,edit_guidance_scale,seed,steps,object
+dog2_standing.png,A photo of a sitting dog.,0.1,0.6,15.0,4.39383222278441e+17,50.0,standing dog
+dog2_standing.png,A photo of a jumping dog.,0.2,0.6,10.0,1.64651910610014e+19,50.0,standing dog
+dog2_standing.png,A photo of a breakdancing dog.,0.1,0.75,15.0,3.46637011751585e+18,50.0,standing dog
+dog2_standing.png,A photo of a dog laying down.,0.0,0.6,10.0,5.88706574996718e+18,50.0,standing dog
+dog2_standing.png,A photo of a yawning dog.,0.2,0.75,10.0,1.80025077062192e+19,50.0,standing dog
+tennis_ball.jpeg,A photo of a tomato in a blue tennis court.,0.0,0.6,10.0,1.45281889845567e+19,50.0,tennis ball
+zebra.jpeg,A photo of a horse.,0.0,0.6,15.0,1.26562345604915e+19,50.0,zebra
+red_car.jpeg,A photo of a car in Manhattan.,0.0,0.45,20.0,147323181349.0,80.0,red car
+bird.jpeg,A photo of a bird spreading wings.,0.1,0.6,15.0,6.14130994070095e+17,50.0,bird
+bird.jpeg,A photo of a bird leaning down.,0.0,0.6,15.0,1.11902474849634e+19,50.0,bird
+bird.jpeg,A photo of a bird cleaning itself.,0.0,0.75,15.0,1.1799940578971093e+19,50.0,bird
+box.jpeg,A photo of an open box.,0.0,0.6,15.0,1.51612541442747e+19,50.0,box
+cat.jpeg,A photo of a cat wearing a hat.,0.1,0.75,10.0,4.26440172514379e+18,50.0,cat
+cat.jpeg,A photo of a cat in a grass field.,0.0,0.75,15.0,1.45651044112204e+19,50.0,cat
+cat_3.jpeg,A photo of a cat wearing a hat.,0.2,0.75,15.0,1.44357917516065e+19,50.0,cat
+cat_3.jpeg,A photo of a cat wearing an apron.,0.2,0.6,10.0,3.28930994879043e+18,50.0,cat
+cat_3.jpeg,A photo of a cat yawning.,0.4,0.6,10.0,6.4061137783005e+18,50.0,cat
+dog_with_shirt.jpg,A dog smoking a cigar.,0.2,0.9,15.0,6.6565934863574e+18,50.0,dog wearing shirt
+dog_01.jpeg,A photo of a sitting dog.,0.1,0.4,27.0,4.39383222278441e+17,65.0,dog
+dog_01.jpeg,A photo of a jumping dog.,0.1,0.6,15.0,1.53009895253438e+19,50.0,dog
+vase_01.jpeg,A photo of a vase of red roses.,0.0,0.9,15.0,1.26519479097813e+19,50.0,vase
+vase_01.jpeg,A photo of a vase of colorful tulips.,0.1,0.6,15.0,1.17840995978778e+19,50.0,vase
+vase_01.jpeg,A photo of a vase of daisies.,0.1,0.9,15.0,3.60853398934669e+18,50.0,vase
+door.jpeg,A photo of an open door.,0.0,0.65,23.0,1712942579721789.0,68.0,door
+door.jpeg,A photo of a door for room number 17.,0.4,0.6,15.0,1.12799203855034e+19,50.0,door
+couple_beach.jpeg,A photo of a couple holding their hands on a beach.,0.2,0.9,10.0,1.41034580546968e+19,50.0,couple
+open_book.jpeg,A photo of a closed book.,0.0,0.2,21.0,30759349267268.0,50.0,open book
+empty_street.jpeg,A busy congested street.,0.0,0.5,20.0,1.71294257972193e+19,80.0,street
+black_shirt.jpeg,A person with crossed arms.,0.0,0.6,15.0,1.46377478721339e+19,50.0,black shirt
+black_shirt.jpeg,A person clapping their hands.,0.1,0.6,10.0,3.19265956913483e+18,50.0,black shirt
+black_shirt.jpeg,A person giving a thumbs up.,0.0,0.75,10.0,1.76653815031813e+19,50.0,black shirt
+bear3.jpeg,A black bear is walking in the grass next to red flowers.,0.2,0.6,10.0,1.48938971176783e+19,50.0,bear
+milk_cookie.jpeg,A cookie next to a glass of juice.,0.0,0.45,20.0,147323189.0,80.0,milk cookie
+chibi.jpeg,Image of a cat wearing a floral shirt.,0.1,0.6,10.0,1.71294257972193e+19,80.0,chibi
+giraffe.jpeg,A giraffe with a short neck.,0.0,0.45,20.0,14732318.0,80.0,giraffe
+giraffe.jpeg,A photo of a giraffe eating the grass below.,0.0,0.6,15.0,1.64840193521558e+19,50.0,giraffe
+giraffe.jpeg,A photo of a sitting giraffe.,0.1,0.75,15.0,6.69625178729946e+18,50.0,giraffe
+apples.jpeg,A basket of oranges.,0.1,0.75,10.0,3.86578940202034e+17,50.0,apples
+apples.jpeg,A bowl of apples.,0.0,0.6,15.0,147323189.0,50.0,apples
+new_cat_3.jpeg,A photo of a sleeping cat.,0.1,0.6,10.0,1.37457835433147e+18,50.0,cat
+new_cat_3.jpeg,A photo of a standing cat.,0.0,0.75,10.0,6.52195637986008e+18,50.0,cat
+new_cat_3.jpeg,A photo of a jumping cat.,0.4,0.6,15.0,6.4405005935404e+18,50.0,cat
+new_cat_3.jpeg,A photo of a cat facing the camera.,0.2,0.6,10.0,1.72280285774492e+19,50.0,cat
+new_cat_3.jpeg,A photo of a cat from behind.,0.0,0.6,10.0,1.71389836286245e+19,50.0,cat
+chair_1.jpeg,A knocked down chair.,0.0,0.45,20.0,147323189.0,50.0,chair
+chair_1.jpeg,A photo of a chair sawed in half.,0.0,0.45,20.0,1473231891847.0,50.0,chair
+flamingo.jpeg,A sitting flamingo.,0.0,0.6,20.0,1.4666523772221956e+19,50.0,flamingo
+banana_1.jpeg,A photo of a sliced banana.,0.0,0.5,25.0,1473231892365.0,68.0,banana
+banana_1.jpeg,A photo of a rotten banana.,0.1,0.6,15.0,4.44242007455573e+16,50.0,banana
+banana_1.jpeg,A photo of a peeled banana.,0.0,0.75,15.0,9.56735342844949e+18,50.0,banana
+cake_1.jpeg,A photo of a birthday cake.,0.2,0.6,10.0,5.50940205467817e+18,50.0,cake
+tree_1.jpeg,A photo of a dead tree.,0.1,0.75,15.0,5.85455895202898e+18,50.0,tree
+tree_1.jpeg,A photo of a fruitful tree.,0.2,0.75,10.0,1.82393917918442e+19,50.0,tree
+tree_1.jpeg,A photo of a tree. Taken in autumn.,0.1,0.6,15.0,4.99429895590267e+18,50.0,tree
+tree_1.jpeg,A photo of a willow tree.,0.2,0.6,15.0,1.55512305221075e+18,50.0,tree
+teddy_1.jpeg,A photo of a teddy bear doing pushups.,0.0,0.75,10.0,1.4873803767149871e+19,50.0,teddy
+teddy_1.jpeg,A photo of a standing teddy bear.,0.0,0.75,10.0,7.76192088989033e+18,50.0,teddy
+teddy_1.jpeg,A photo of a dancing teddy bear.,0.1,0.6,15.0,1.46050374187882e+19,50.0,teddy
+teddy_1.jpeg,A torn up teddy bear.,0.1,0.6,15.0,2.32846928276412e+18,50.0,teddy
+white_horse1.png,A white horse in a grass field.,0.0,0.0,0.0,0.0,50.0,white horse
+white_horse2.png,A jumping horse.,0.1,0.75,15.0,1.24715488961395e+19,50.0,white horse
+prague.png,A cyclist riding in a street.,0.0,0.5,20.0,1.47323189236524e+16,80.0,street
+prague.png,A photo of a coffee house in a street.,0.0,0.7,17.0,1.47323189236524e+16,80.0,street
+bird.png,A bird looking backwards.,0.0,0.1,21.0,1473231892346.0,100.0,bird
+goat_and_cat.jpg,A goat and a cat hugging.,0.0,0.75,10.0,4.66028784867974e+18,50.0,goat and cat
+bird.jpeg,A bird eating a fish.,0.0,0.5,17.0,0.0,50.0,bird
+door.jpeg,A door with a pet enterance.,0.0,0.65,23.0,1712942579721789.0,65.0,door
+elephant.jpeg,A person riding on an elephant.,0.1,0.6,15.0,6.48641274826188e+18,50.0,elephant
+prague.png,A parade on a street.,0.1,0.6,15.0,1.74448599885815e+19,50.0,street
+road1.png,An image of a post apocalyptic road.,0.1,0.6,15.0,4.23543749798395e+18,50.0,road
+red_car.jpeg,A race car.,0.1,0.6,15.0,3.78046538432151e+17,50.0,red car
+white_horse1.png,A snow princess next to a unicorn.,0.4,0.6,15.0,1.6807379162811e+19,50.0,white horse
+white_horse2.png,A circus horse.,0.0,0.6,15.0,1.34216029082975e+19,50.0,white horse
+white_horse2.png,A horse in a show jumping attire.,0.0,0.75,25.0,1473231892365.0,80.0,white horse
+egg_tree.jpeg,A cracked egg.,0.1,0.9,15.0,5.90641453963203e+18,50.0,egg tree
+two_dogs_with_checkered_shirts1.jpg,Two dogs growling at each other.,0.2,0.75,10.0,2.22267005952774e+18,50.0,two dogs wearing checkered shirts
+pizza1.png,Pizza with pepperoni.,0.4,0.6,15.0,7.63563677866504e+18,50.0,pizza
+pizza1.png,Pizza with pineapple.,0.2,0.6,15.0,1.20873050596994e+19,50.0,pizza
+pizza1.png,A half eaten pizza.,0.0,0.6,15.0,6.62631952300004e+18,50.0,pizza
+black_shirt.jpeg,A person in a greetting pose to Namaste hands.,0.0,0.05,27.0,147323189234.0,82.0,black shirt
+goat_and_cat.jpg,A goat to the right of a cat.,0.0,0.75,10.0,1.4873803767149871e+19,50.0,goat and cat
+goat_and_cat.jpg,A goat jumping over a cat.,0.2,0.75,10.0,1.18393361602168e+19,50.0,goat and cat
+goat_and_cat.jpg,A goat hits a cat.,0.0,0.75,15.0,1.113366835567633e+19,50.0,goat and cat
+banana_1.jpeg,Two bananas.,0.0,0.75,10.0,1.08338779850684e+19,50.0,banana
+bear3.jpeg,A standing bear.,0.0,0.8,10.0,85717129479357.0,72.0,bear
+bear3.jpeg,A bear eating a fish.,0.4,0.6,15.0,1.673946627594e+19,50.0,bear
+elephant.jpeg,An elephant in a circus.,0.0,0.6,15.0,4.04963992058188e+16,50.0,elephant
+elephant.jpeg,A standing elephant.,0.0,0.5,20.0,1473231892346.0,60.0,elephant
+road1.png,A photo of a traffic jam.,0.2,0.6,15.0,1.15044270290586e+19,50.0,road
+red_car.jpeg,A convertable car.,0.2,0.6,15.0,1.72542145123648e+19,50.0,red car
+red_car.jpeg,A car in the year 1940.,0.2,0.6,10.0,6.54037801451125e+18,50.0,red car
+teddy_1.jpeg,A teddy bear holding a cup.,0.2,0.75,15.0,1.23641096571985e+18,50.0,teddy
+tree_1.jpeg,An apple tree.,0.0,0.75,15.0,1.1730759948103752e+19,50.0,tree
+drinking_horse.png,A horse raising its head.,0.0,0.45,18.0,147323189236.0,50.0,drinking horse
+white_horse2.png,A standing horse.,0.0,0.6,15.0,3.8862131496092785e+18,50.0,white horse
+white_horse2.png,A girl riding a horse.,0.1,0.6,15.0,1.07961659924161e+19,50.0,white horse
+white_horse2.png,A photo of a zebra.,0.1,0.75,10.0,7.91359143899407e+18,50.0,white horse
+vase_01.jpeg,A vase of flowers filled with green water.,0.0,0.45,20.0,147323181349.0,80.0,vase
+vase_01.jpeg,A pot of flowers.,0.0,0.45,18.0,147323189236.0,50.0,vase
+bird-g83440b9c4_1920.jpg,Two kissing parrots.,0.1,0.75,15.0,7.61728731784435e+18,50.0,bird
+door.jpeg,A door with a pet entrance.,0.0,0.65,23.0,1712942579721789.0,65.0,door
+black_shirt.jpeg,A person in a greeting pose to Namaste hands.,0.0,0.05,27.0,147323189234.0,82.0,black shirt
+bear3.jpeg,A bear standing on hind legs.,0.0,0.8,10.0,85717129479357.0,72.0,bear
+elephant.jpeg,An elephant standing on hind legs.,0.0,0.5,20.0,1473231892346.0,60.0,elephant
+red_car.jpeg,A convertible car.,0.2,0.6,15.0,1.72542145123648e+19,50.0,red car
+white_horse2.png,A horse standing on hind legs.,0.0,0.2,25.0,8571712947935.0,65.0,white horse
+vase_01.jpeg,No vase of flowers.,0.0,0.9,15.0,314132023.0,50.0,vase
+white_horse2.png,No white horse.,0.0,0.6,10.0,868029095.0,50.0,white horse
+cat_3.jpeg,No cat.,0.0,0.9,15.0,691860344.0,50.0,cat
+cat.jpeg,No cat.,0.0,0.75,10.0,348640355.0,50.0,cat
+tree_1.jpeg,No tree trunk.,0.1,0.6,15.0,9393052.0,50.0,tree
+goat_and_cat.jpg,A photo of a goat and a cat both wearing hats and glasses.,0.2,0.35,15.0,250427869.0,50.0,goat and cat
+teddy_1.jpeg,A photo of a teddy wearing a hat and glasses.,0.2,0.9,10.0,707809939.0,50.0,teddy
+white_horse2.png,A photo of a horse wearing a hat and glasses.,0.2,0.75,10.0,937073949.0,50.0,white horse
+cat_3.jpeg,A photo of a cat wearing a hat and glasses.,0.1,0.9,15.0,893816294.0,50.0,cat
+cat.jpeg,A photo of a cat wearing a hat and glasses.,0.2,0.9,10.0,505993256.0,50.0,cat
+bear3.jpeg,A photo of a bear wearing a hat and glasses.,0.2,0.9,10.0,275639940.0,50.0,bear
+milk_cookie.jpeg,A photo of juice and no cookie.,0.0,0.75,15.0,532122867.0,50.0,milk cookie
+apples.jpeg,A bowl of oranges.,0.1,0.5,15.0,496081913.0,50.0,apples
+vase_01.jpeg,A vase of flowers as a child’s drawing.,0.0,0.35,15.0,580392975.0,50.0,vase
+pizza1.png,A pizza as a child’s drawing.,0.0,0.35,15.0,901125514.0,50.0,pizza
+pizza1.png,A pizza in Expressionism style.,0.2,0.35,15.0,553934952.0,50.0,pizza
+prague.png,A street in Expressionism style.,0.0,0.35,15.0,622775066.0,50.0,street
+road1.png,A road in futuristic art style.,0.0,0.35,15.0,281276794.0,50.0,road
+red_car.jpeg,A car in futuristic art style.,0.0,0.35,10.0,35155508.0,50.0,red car
+goat_and_cat.jpg,A goat and a cat in Anime style.,0.2,0.6,10.0,180537420.0,50.0,goat and cat
+white_horse1.png,A white horse in Anime style.,0.0,0.35,15.0,652348290.0,50.0,white horse
