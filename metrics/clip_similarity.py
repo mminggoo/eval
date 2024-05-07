@@ -60,3 +60,22 @@ class ClipSimilarity(nn.Module):
         sim_direction = F.cosine_similarity(image_features_1 - image_features_0, text_features_1 - text_features_0)
         sim_image = F.cosine_similarity(image_features_0, image_features_1)
         return sim_0, sim_1, sim_direction, sim_image
+
+def plot_metrics(metrics_file, output_path):
+    
+    with open(metrics_file, 'r') as f:
+        data = [json.loads(line) for line in f]
+        
+    plt.rcParams.update({'font.size': 11.5})
+    seaborn.set_style("darkgrid")
+    plt.figure(figsize=(20.5* 0.7, 10.8* 0.7), dpi=200)
+
+    x = [d["sim_direction"] for d in data]
+    y = [d["sim_image"] for d in data]
+
+    plt.plot(x, y, marker='o', linewidth=2, markersize=4)
+
+    plt.xlabel("CLIP Text-Image Direction Similarity", labelpad=10)
+    plt.ylabel("CLIP Image Similarity", labelpad=10)
+
+    plt.savefig(Path(output_path) / Path("plot.pdf"), bbox_inches="tight")
